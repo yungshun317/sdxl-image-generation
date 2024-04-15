@@ -1,5 +1,7 @@
 datasets/
 images/
+content/
+dreambooth/
 *.h5
 *.npy
 MANIFEST
