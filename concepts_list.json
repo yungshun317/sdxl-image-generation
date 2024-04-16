@@ -1,8 +1,8 @@
 [
     {
-        "instance_prompt": "examples",
-        "class_prompt": "photo of a person",
-        "instance_data_dir": "content/data/examples",
-        "class_data_dir": "content/data/person"
+        "instance_prompt": "dog",
+        "class_prompt": "dog",
+        "instance_data_dir": "content/data/instance",
+        "class_data_dir": "content/data/class"
     }
 ]
