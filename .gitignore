@@ -2,6 +2,7 @@ datasets/
 images/
 content/
 dreambooth/
+textual_inversion/
 diffusers/
 *.h5
 *.npy
