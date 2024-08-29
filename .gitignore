@@ -4,6 +4,7 @@ images/
 content/
 dreambooth/
 textual_inversion/
+text_to_image/
 diffusers/
 ip_adapter/
 IP-Adapter/
