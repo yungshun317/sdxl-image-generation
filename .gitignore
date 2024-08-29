@@ -4,6 +4,8 @@ content/
 dreambooth/
 textual_inversion/
 diffusers/
+ip_adapter/
+IP-Adapter/
 *.h5
 *.npy
 MANIFEST
